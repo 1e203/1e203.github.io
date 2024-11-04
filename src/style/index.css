@@ -1,0 +1,19 @@
+
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    --main-bg-color: white;
+    background-color: var(--main-bg-color) !important;
+}
+
+.linkColor {
+    color: #6f5cf1
+}
+
+a {
+    text-decoration: none !important;
+}
