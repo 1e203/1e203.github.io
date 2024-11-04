@@ -26,11 +26,10 @@ const Home: LayoutPage = () => {
                         bgClip="text"
                         fill="transparent"
                     >
-                        Afterwork Design
+                        1e203
                     </H1>
                     <Text mt="40px">
-                        「Afterwork Design」是由两个年轻人组成的组织，因为我们对这个世界充满好奇，也乐于尝试不同的东西，所以我们希望在这里，
-                        为我们自己，也为大家，开发一些有趣又有用的东西。
+                        「1e203」由六个大学生为完成软工大作业而临时凑合组建的网站。
                     </Text>
                 </Box>
                 <HStack

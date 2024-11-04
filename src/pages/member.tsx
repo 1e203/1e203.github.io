@@ -16,19 +16,19 @@ const Home: LayoutPage = () => {
                     margin="0 auto"
                     minH="500px"
                 >
-                    <H1 textAlign="center">团队成员</H1>
+                    <H1 textAlign="center">1e203宿舍成员</H1>
                     <Text m="40px 0">
-                        网站所有项目开源，如果你也感兴趣，我们也招募志愿者，欢迎和我们一起维护这个网站，让更多人得到更优质的体验。
+                        为了完成软工大作业，我们整个宿舍六名成员都还各自搭建了自己的个人博客网站，可通过点击下方昵称跳转。
                     </Text>
                     <Text>
-                        咨询请联系：
+                        如有需要请联系：
                         <Link
-                            href="mailto:weijuandesign@sina.com"
+                            href="mailto:2650583860@qq.com"
                             bg="linear-gradient(to left, #315891 0%, #330867 100%)"
                             bgClip="text"
                             fill="transparent"
                         >
-                            weijuandesign@sina.com
+                            2650583860@qq.com
                         </Link>
                     </Text>
                 </Box>
