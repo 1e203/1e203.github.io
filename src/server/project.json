@@ -4,11 +4,5 @@
         "description": "Castalia 是一个资源导航网站，精选国内外优质网站，让每个人都能找到自己需要的资源",
         "image": "./images/projects/castalia.png",
         "url": "https://afterwork-design.github.io/castalia/"
-    },
-    {
-        "title": "KaKa",
-        "description": "KaKa 是一个色板网站，包含纯色、渐变与阶梯色，所有颜色都是经过多次尝试调整出来的，可直接使用",
-        "image": "./images/projects/kaka.png",
-        "url": "https://afterwork-design.github.io/color-card/"
     }
 ]
