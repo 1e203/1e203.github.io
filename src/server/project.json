@@ -1,8 +1,8 @@
 [
     {
-        "title": "Castalia",
-        "description": "Castalia 是一个资源导航网站，精选国内外优质网站，让每个人都能找到自己需要的资源",
+        "title": "SiteNavigation",
+        "description": "SiteNavigation 是一个资源导航网站，精选国内外优质网站，让每个人都能找到自己需要的资源",
         "image": "./images/projects/castalia.png",
-        "url": "https://afterwork-design.github.io/castalia/"
+        "url": "https://1e203.github.io/sitenavigation/"
     }
 ]
