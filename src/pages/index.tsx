@@ -37,7 +37,7 @@ const Home: LayoutPage = () => {
                     top="15px"
                     right="15px"
                 >
-                    <Link href="https://github.com/afterwork-design" target="_blank">
+                    <Link href="https://github.com/1e203" target="_blank">
                         <Image
                             src="./github.png"
                         />
